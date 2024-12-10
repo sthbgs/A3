@@ -1,12 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap');
+
 :root {
-  --background: #ffffff;
+  --background: #e9e9e9;
   --foreground: #171717;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --background: #dddddd;
+    --foreground: #dddddd;
   }
 }
 
@@ -40,3 +43,253 @@ a {
     color-scheme: dark;
   }
 }
+
+
+.p1 {
+  font-size: 20px; 
+  text-align: left;
+  margin-top: 20px;
+  margin-left: 300px; 
+}
+
+
+
+
+h1 {
+  color: #00A7DA;
+  font-size: 40px;
+  text-align: left;
+  margin-top: 60px;
+  margin-left: 300px;
+}
+
+
+.img {
+  width: 500px;
+  margin-left: 1200px;
+  margin-top: -22%;
+}
+
+.img2 {
+  width: 1600px;
+  margin-top: -3%;
+  margin-left: 100px;
+}
+
+
+.img3 {
+  text-align: center;
+  width: 1900px;
+  margin-top: 1%;
+  margin-left: 0px;
+}
+
+.img4 {
+  text-align: center;
+  width: 2000px;
+  margin-top: 2%;
+  
+}
+
+.img5 {
+  width: 2400px;
+  margin-top: 2%;
+  margin-left: -300px;
+}
+
+.img6 {
+  width: 1900px;
+  margin-top: 3%;
+}
+
+
+
+.p4 {
+  color: rgb(255, 255, 255);
+  font-size: 10px;
+  margin-top: -55px;
+  margin-left: 70px;
+}
+
+
+.p7 {
+  color: #00A7DA;
+  font-size: 30px;
+  margin-top: 20px;
+  margin-left: 300px;
+
+}
+
+.p2 {
+  font-size: 30px;
+  margin-top: 20px;
+  margin-left: 300px;
+
+}
+
+.p3 {
+  font-size: 20px;
+  margin-top: 20px;
+  margin-left: 300px;
+
+}
+
+.p6 {
+  font-size: 30px;
+  margin-top: 20px;
+  margin-left: 300px;
+
+}
+
+.p5 {
+  font-size: 20px;
+  margin-top: 20px;
+  margin-left: 300px;
+
+}
+
+.p10 {
+  color: #00A7DA;
+  font-size: 30px;
+  margin-top: 20px;
+  margin-left: 300px;
+  margin-top: 80px;
+}
+
+.p11 {
+  color: #00A7DA;
+  font-size: 25px;
+  margin-top: 20px;
+  margin-left: 300px;
+}
+
+.p12 {
+  color: #C30F0F;
+  font-size: 25px;
+  margin-top: 20px;
+  margin-left: 300px;
+}
+
+.p13 {
+  font-size: 20px;
+  margin-top: 20px;
+  margin-left: 300px;
+}
+
+.p14 {
+  color: #00A7DA;
+  font-size: 30px;
+  margin-top: -180px;
+  margin-left: 300px;
+}
+
+.p15 {
+  color: #B1AE45;
+  font-size: 25px;
+  margin-top: 20px;
+  margin-left: 300px;
+}
+
+.p16 {
+  font-size: 20px;
+  margin-top: 20px;
+  margin-left: 300px;
+}
+
+.p17 {
+  color: #00A7DA;
+  font-size: 30px;
+  margin-top: 20px;
+  margin-left: 300px;
+  margin-top: -50px;
+}
+
+.p18 {
+  font-size: 20px;
+  margin-top: 20px;
+  margin-left: 300px;
+}
+
+
+.img11 {
+  width: 600px;
+  margin-top: -15%;
+  margin-left: 1100px; }
+
+  .img14 {
+    width: 600px;
+    margin-top: -15%;
+    margin-left: 1100px; }
+
+    .img17 {
+      width: 420px;
+      margin-top: -17%;
+      margin-left: 1200px; }
+
+
+  .p20 {
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 300px;
+    margin-top: 20px;
+      }
+      .p21 {
+        font-size: 20px;
+        margin-top: 20px;
+        margin-left: 300px;
+        margin-top: 20px;
+          }
+          .p22 {
+            color: #00A7DA;
+            font-size: 30px;
+            margin-top: 20px;
+            margin-left: 300px;
+            margin-top: 100px;
+              }
+              .p23 {
+                
+                font-size: 20px;
+                margin-top: 20px;
+                margin-left: 300px;
+                margin-top: 20px;
+                  }
+                  .p24 {
+                    font-size: 20px;
+                    margin-top: 20px;
+                    margin-left: 300px;
+                    margin-top: 20px;
+                      }
+                      .p88 {
+                        color: #00A7DA;
+                        font-size: 25px;
+                        margin-top: 20px;
+                        margin-left: 300px;
+                        margin-top: 80px;
+                      }
+
+                      .img22 {
+                        width: 600px;
+                        margin-top: -20%;
+                        margin-left: 1100px;
+                      }
+                      .img88{
+                        width: 800px;
+                        margin-top: -35%;
+                        margin-left: 900px;
+                      }
+
+                      .p30 {
+                        font-size: 20px;
+                        margin-top: 20px;
+                        margin-left: 300px;
+                    
+                      }
+                      .img30 {
+                        width: 800px;
+                        margin-top: -5%;
+                        margin-left: 250px;
+                      }
+
+                      .img40 {
+                        margin-top: 90px;
+                      }

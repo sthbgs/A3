@@ -1,0 +1,95 @@
+.header {
+    background: linear-gradient(to right, #03045e, #0077b6, #90e0ef);
+    width: 1920px;
+    height: 163.89px;
+    margin-top: 2.5cm;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .headerContent {
+    display: flex;
+    gap: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .logoContainer {
+    position: absolute;
+    top: calc(2.5cm - 102.5px);
+    left: 225px;
+    width: 355px;
+    height: 360px;
+    z-index: 2;
+  }
+  
+  .logoContainer img {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .logoContainer::after {
+    content: '';
+    width: 80px;
+    height: 80px;
+    display: block;
+  }
+  
+  .textNavContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    flex-grow: 1;
+  }
+  
+  .logoText {
+    color: white;
+    font-size: 48px;
+    line-height: 20px;
+    text-align: left;
+    margin-bottom: 1.5rem;
+    font-family: 'Lilita One', cursive;
+  }
+  
+  .navigation {
+    width: 100%;
+  }
+  
+  .navigation ul {
+    display: flex;
+    list-style: none;
+    gap: 4.5rem;
+    margin: 0;
+    padding: 0;
+    justify-content: flex-start;
+    padding-left: 0;
+  }
+  
+  .navigation a {
+    color: white; 
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: 500;
+    transition: color 0.3s ease;
+  }
+  
+  .navigation a:hover {
+    color: #90e0ef;
+  }
+
+  .socialMedia {
+    width: 2000px;
+    color: white;
+    display: flex; 
+    justify-content: center;
+    align-items: center; 
+    margin-top: -300px; 
+    margin-left: 480px;
+  }
+
+ 
+
+ 
